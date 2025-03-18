@@ -1,3 +1,3 @@
 # firpe
-# 简介地址http://eenxd.ensl.cn/99
-# 官网地址http://eenx5.ensl.cn/79
+# 简介地址https://luboke.luyuanbo.dpdns.org/FirPE-Docs/
+# 官网地址https://www.firpe.cn/
